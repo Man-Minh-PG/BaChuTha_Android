@@ -9,6 +9,7 @@ class GroceryItem {
       {this.id, this.name, this.description, this.price, this.imagePath});
 }
 
+
 var demoItems = [
   GroceryItem(
       id: 1,
