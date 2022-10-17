@@ -9,7 +9,6 @@ class GroceryItem {
       {this.id, this.name, this.description, this.price, this.imagePath});
 }
 
-
 var demoItems = [
   GroceryItem(
       id: 1,
@@ -43,7 +42,7 @@ var demoItems = [
       imagePath: "assets/images/grocery_images/beef.png"),
   GroceryItem(
       id: 6,
-      name: "Chikken",
+      name: "Chikkeen",
       description: "250gm, Priceg",
       price: 4.99,
       imagePath: "assets/images/grocery_images/chicken.png"),
